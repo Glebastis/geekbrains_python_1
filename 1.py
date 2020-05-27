@@ -7,4 +7,3 @@ digit = input('Введите число: ')
 name = input('Введите слово: ')
 print(digit)
 print(name)
-fasf
